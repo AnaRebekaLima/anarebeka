@@ -52,4 +52,4 @@ Em breve estarei disponibilizando aqui meus projetos aplicados em:
 
 ---
 
-Muito obrigada por visitar meu perfil! Sinta-se à vontade para me chamar no LinkedIn ou GitHub ✨
+Muito obrigada por visitar meu perfil! Sinta-se à vontade para me chamar no LinkedIn ou GitHub 
