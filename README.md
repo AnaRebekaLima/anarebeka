@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Eu sou a Ana Rebeka</h1>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNINASSAU)  
+🎓 Profissional graduada em Análise e Desenvolvimento de Sistemas (UNINASSAU)  
 📊 Focada em Análise de Dados e aplicação de Inteligência Artificial para soluções preditivas  
 📍 Caucaia, CE – Brasil  
 📫 Contato: anarebekalima@gmail.com | [LinkedIn](https://www.linkedin.com/in/anarebeka)
