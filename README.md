@@ -19,9 +19,7 @@ Meu foco está na área de **Análise de Dados**, combinando habilidades de **vi
 
 - **Análise de Dados**: Power BI, Excel Avançado, SQL, Microsoft Access  
 - **Linguagens de Programação**: Python (básico), C#, Java  
-- **Machine Learning**: Scikit-Learn (modelos supervisionados e não supervisionados), Pandas, NumPy  
-- **Testes de Software**: Selenium, testes de caixa preta e branca, automação web  
-- **Ferramentas**: Jupyter Notebook, Git e GitHub, Trello  
+- **Ferramentas**: Jupyter Notebook, Git e GitHub
 
 ---
 
@@ -36,7 +34,7 @@ Em breve estarei disponibilizando aqui meus projetos aplicados em:
 
 ## Formação e Cursos
 
-- Graduação em Análise e Desenvolvimento de Sistemas – UNINASSAU (2023 – em andamento)  
+- Graduação em Análise e Desenvolvimento de Sistemas – UNINASSAU (2023 – 2025)  
 - Power BI e Excel Avançado  
 - Python Starter – Asimov Academy  
 - C# com Orientação a Objetos – Udemy  
